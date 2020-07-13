@@ -1,4 +1,6 @@
-### 👋
+I a currently managing teams working on distrbuted data infrastructure platforms for large-scale AI/ML applications. I have significant experience in distributed computing and public cloud platforms including building, growing and leading/managing teams in these areas.
+
+[Personal website](https://manastalukdar.github.io/).
 
 <!--
 **manastalukdar/manastalukdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
