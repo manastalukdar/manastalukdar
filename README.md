@@ -1,4 +1,4 @@
-I am currently managing teams working on distrbuted data infrastructure platforms for large-scale AI/ML applications. I have significant experience in distributed computing and public cloud platforms. This includes building, growing and leading/managing teams in these areas and taking projects from prototype to product.
+I am a software engineering manager currently leading teams working on distrbuted data infrastructure platforms for large-scale AI/ML applications. I have significant experience in distributed computing and public cloud platforms. This includes building, growing and managing teams in these areas and taking projects from prototype to product.
 
 [Personal website](https://manastalukdar.github.io/).
 
