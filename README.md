@@ -6,6 +6,8 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ### Social Media
 
+</br>
+
 <a href="https://www.linkedin.com/in/manastalukdar" target="_blank">
   <img align="left" alt="Manas Talukdar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
