@@ -12,17 +12,13 @@ I am a software engineering manager currently leading teams working on distrbute
   <img align="left" alt="Manas Talukdar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://github.com/manastalukdar?tab=followers" target="_blank">
-  <img align="left" alt="Manas Talukdar | Twitter" src="https://img.shields.io/github/followers/manastalukdar.svg?style=social&label=Follow&maxAge=2592000" />
+  <img align="left" alt="Manas Talukdar | GitHub" src="https://img.shields.io/github/followers/manastalukdar.svg?style=social&label=Follow" />
 </a>
 <a href="https://twitter.com/manastalukdar" target="_blank">
-  <img align="left" alt="Manas Talukdar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <img align="left" alt="Manas Talukdar | Twitter" src="https://img.shields.io/twitter/follow/manastalukdar?label=Follow&style=social" />
 </a>
 
 ---
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manastalukdar/)](https://www.linkedin.com/in/manastalukdar/)
-[![GitHub followers](https://img.shields.io/github/followers/manastalukdar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/manastalukdar?tab=followers)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/manastalukdar)](https://twitter.com/manastalukdar)
 
 [Personal website](https://manastalukdar.github.io/).
 
