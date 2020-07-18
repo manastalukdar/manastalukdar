@@ -11,14 +11,19 @@ I am a software engineering manager currently leading teams working on distrbute
 <a href="https://www.linkedin.com/in/manastalukdar" target="_blank">
   <img align="left" alt="Manas Talukdar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="https://www.github.com/manastalukdar?tab=followers" target="_blank">
-  <img align="left" alt="Manas Talukdar | GitHub" src="https://img.shields.io/github/followers/manastalukdar.svg?style=social&label=Follow" />
-</a>
 <a href="https://www.twitter.com/manastalukdar" target="_blank">
-  <img align="left" alt="Manas Talukdar | Twitter" src="https://img.shields.io/twitter/follow/manastalukdar?label=Follow&style=social" />
+  <img align="left" alt="Manas Talukdar | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 
 </br>
+
+<!--
+
+<a href="https://www.github.com/manastalukdar?tab=followers" target="_blank">
+  <img align="left" alt="Manas Talukdar | GitHub" src="https://img.shields.io/github/followers/manastalukdar.svg?style=social&label=Follow" />
+</a>
+
+-->
 
 ---
 
