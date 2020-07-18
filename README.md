@@ -1,6 +1,10 @@
+### About
+
 I am a software engineering manager currently leading teams working on distrbuted data infrastructure platforms for large-scale AI/ML applications. I have significant experience in distributed computing and public cloud platforms. This includes building, growing and managing teams in these areas and taking projects from prototype to product. My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
 ---
+
+### Social Media
 
 <a href="https://www.linkedin.com/in/manastalukdar" target="_blank">
   <img align="left" alt="Manas Talukdar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -15,6 +19,8 @@ I am a software engineering manager currently leading teams working on distrbute
 </br>
 
 ---
+
+### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true)
 
