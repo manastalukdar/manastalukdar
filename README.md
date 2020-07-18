@@ -4,6 +4,10 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ---
 
+### Elsewhere
+
+</br>
+
 <a href="https://www.linkedin.com/in/manastalukdar" target="_blank">
   <img align="left" alt="Manas Talukdar | Linkedin" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
