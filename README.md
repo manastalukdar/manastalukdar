@@ -17,17 +17,9 @@ I am a software engineering manager currently leading teams working on distrbute
 
 </br>
 
-<!--
-
-<a href="https://www.github.com/manastalukdar?tab=followers" target="_blank">
-  <img align="left" alt="Manas Talukdar | GitHub" src="https://img.shields.io/github/followers/manastalukdar.svg?style=social&label=Follow" />
-</a>
-
--->
-
 ---
 
-### GitHub Stats
+### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true)
 
