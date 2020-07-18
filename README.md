@@ -14,6 +14,9 @@ I am a software engineering manager currently leading teams working on distrbute
 <a href="https://www.twitter.com/manastalukdar" target="_blank">
   <img align="left" alt="Manas Talukdar | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
+<a href="https://manastalukdar.github.io/" target="_blank">
+  <img align="left" alt="Manas Talukdar | Website" width="24px" src="https://img.icons8.com/color/96/000000/domain--v1.png" />
+</a>
 
 </br>
 
