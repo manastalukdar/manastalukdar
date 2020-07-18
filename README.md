@@ -4,8 +4,6 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ---
 
-### Other places on the web
-
 </br>
 
 <a href="https://www.linkedin.com/in/manastalukdar" target="_blank">
