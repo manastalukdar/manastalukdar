@@ -4,7 +4,7 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ---
 
-### Social Media
+### Other places on the web
 
 </br>
 
