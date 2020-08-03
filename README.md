@@ -18,9 +18,15 @@ I am a software engineering manager currently leading teams working on distrbute
 
 </br>
 
-## GitHub Stats
+## Stats
+
+### GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manastalukdar&layout=compact&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/manastalukdar/github-readme-stats)
 
 ## Recent Blog Posts
 
