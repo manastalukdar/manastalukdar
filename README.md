@@ -28,6 +28,11 @@ I am a software engineering manager currently leading teams working on distrbute
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manastalukdar&layout=compact&hide_border=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/manastalukdar/github-readme-stats)
 
+### WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
