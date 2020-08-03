@@ -41,6 +41,76 @@ I am a software engineering manager currently leading teams working on distrbute
 ### WakaTime
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 374 Contributions in year 2020
+ > 
+> 📦 Used 80.4 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 37 Public Repository 
+ > 
+> 🔑 0 Owned Private Repository 
+
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+🌆 Daytime    126 commits    ███████░░░░░░░░░░░░░░░░░░   28.19% 
+🌃 Evening    199 commits    ███████████░░░░░░░░░░░░░░   44.52% 
+🌙 Night      100 commits    █████░░░░░░░░░░░░░░░░░░░░   22.37%
+
+```
+📅 **I'm Most Productive on Saturdays** 
+
+```text
+Monday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+Tuesday      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Thursday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+Friday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
+Saturday     124 commits    ███████░░░░░░░░░░░░░░░░░░   27.74% 
+Sunday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in JavaScript** 
+
+```text
+JavaScript   6 repos        ████████░░░░░░░░░░░░░░░░░   35.29% 
+Java         3 repos        ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+C#           3 repos        ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Vue          1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+PowerShell   1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Go           1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Shell        1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/manastalukdar/manastalukdar/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ---
