@@ -34,11 +34,11 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ### GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b)
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manastalukdar&layout=compact&hide_border=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/manastalukdar/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manastalukdar&layout=compact&hide_border=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b)
 
 ### WakaTime
 
