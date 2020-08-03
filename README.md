@@ -18,6 +18,16 @@ I am a software engineering manager currently leading teams working on distrbute
 
 </br>
 
+## Recent Blog Posts
+
+<!-- BLOG:START -->
+- [Some Pointers from Work Rules by Laszlo Bock](https://manastalukdar.github.io/blog/2020/01/25/work-rules-laszlo-bock-pointers/)
+- [Growing and Developing Software Engineering Teams](https://manastalukdar.github.io/blog/2019/09/19/growing-developing-software-engineering-teams/)
+- [Some Thoughts on Engineering Internships](https://manastalukdar.github.io/blog/2019/09/04/some-thoughts-on-engineering-internships/)
+- [Breadth First Search Algorithm for Level Order Traversal of a Binary Tree](https://manastalukdar.github.io/blog/2019/08/29/breadth-first-search-binary-tree-level-order-traversal/)
+- [Distributed Systems Basics – Handling Failure -- Fault Tolerance and Monitoring](https://manastalukdar.github.io/blog/2019/08/19/katemats-distributed-systems-fault-tolerance-monitoring/)
+<!-- BLOG:END -->
+
 ## Stats
 
 ### GitHub
@@ -32,16 +42,6 @@ I am a software engineering manager currently leading teams working on distrbute
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## Recent Blog Posts
-
-<!-- BLOG:START -->
-- [Some Pointers from Work Rules by Laszlo Bock](https://manastalukdar.github.io/blog/2020/01/25/work-rules-laszlo-bock-pointers/)
-- [Growing and Developing Software Engineering Teams](https://manastalukdar.github.io/blog/2019/09/19/growing-developing-software-engineering-teams/)
-- [Some Thoughts on Engineering Internships](https://manastalukdar.github.io/blog/2019/09/04/some-thoughts-on-engineering-internships/)
-- [Breadth First Search Algorithm for Level Order Traversal of a Binary Tree](https://manastalukdar.github.io/blog/2019/08/29/breadth-first-search-binary-tree-level-order-traversal/)
-- [Distributed Systems Basics – Handling Failure -- Fault Tolerance and Monitoring](https://manastalukdar.github.io/blog/2019/08/19/katemats-distributed-systems-fault-tolerance-monitoring/)
-<!-- BLOG:END -->
 
 ---
 
