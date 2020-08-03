@@ -30,6 +30,8 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ## Stats
 
+![](https://komarev.com/ghpvc/?username=manastalukdar)
+
 ### GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
