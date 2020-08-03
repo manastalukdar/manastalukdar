@@ -1,0 +1,20 @@
+name: Update blog posts
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          comment_tag_name: BLOG
+          feed_list: "https://manastalukdar.github.io/blogfeed.xml"

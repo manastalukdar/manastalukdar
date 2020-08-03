@@ -1,10 +1,10 @@
-### About
+## About
 
 I am a software engineering manager currently leading teams working on distrbuted data infrastructure platforms for large-scale AI/ML applications. I have significant experience in distributed computing and public cloud platforms. This includes building, growing and managing teams in these areas and taking projects from prototype to product. My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
 ---
 
-### Elsewhere
+## Elsewhere
 
 </br>
 
@@ -22,9 +22,16 @@ I am a software engineering manager currently leading teams working on distrbute
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
+## Recent Blog Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ---
 
