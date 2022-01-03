@@ -21,11 +21,11 @@ I am a senior software engineering manager currently leading an org of multiple 
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Introducing Pathways: A next-generation AI architecture](https://manastalukdar.github.io/blog/2022/01/02/pathways-next-generation-ai-architecture/)
+- [A Case for Multi-Task and Meta Learning in Production](https://manastalukdar.github.io/blog/2022/01/02/case-for-multi-task-meta-learning-in-production/)
+- [Interviewing Engineering Managers](https://manastalukdar.github.io/blog/2022/01/02/interviewing-engineering-managers/)
 - [Making Friends with Machine Learning by Cassie Kozyrkov](https://manastalukdar.github.io/blog/2021/12/30/making-friends-machine-learning-cassie-kozyrkov/)
 - [HBR: 5 Things High-Performing Teams Do Differently](https://manastalukdar.github.io/blog/2021/12/30/5-things-high-performing-teams/)
-- [Feature Store for ML](https://manastalukdar.github.io/blog/2021/12/25/feature-store-for-ml-kth/)
-- [Some Pointers from Work Rules by Laszlo Bock](https://manastalukdar.github.io/blog/2020/01/25/work-rules-laszlo-bock-pointers/)
-- [Growing and Developing Software Engineering Teams](https://manastalukdar.github.io/blog/2019/09/19/growing-developing-software-engineering-teams/)
 <!-- BLOG:END -->
 
 ## Stats
