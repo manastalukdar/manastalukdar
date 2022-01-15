@@ -21,11 +21,11 @@ I am a senior software engineering manager currently leading an org of multiple 
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Auto-Diagnosis and Remediation in Netflix Data Platform](https://manastalukdar.github.io/blog/2022/01/14/auto-diagnosis-remediation-netflix-data-platform/)
 - [Introducing Pathways: A next-generation AI architecture](https://manastalukdar.github.io/blog/2022/01/02/pathways-next-generation-ai-architecture/)
 - [A Case for Multi-Task and Meta Learning in Production](https://manastalukdar.github.io/blog/2022/01/02/case-for-multi-task-meta-learning-in-production/)
 - [Interviewing Engineering Managers](https://manastalukdar.github.io/blog/2022/01/02/interviewing-engineering-managers/)
 - [Making Friends with Machine Learning by Cassie Kozyrkov](https://manastalukdar.github.io/blog/2021/12/30/making-friends-machine-learning-cassie-kozyrkov/)
-- [HBR: 5 Things High-Performing Teams Do Differently](https://manastalukdar.github.io/blog/2021/12/30/5-things-high-performing-teams/)
 <!-- BLOG:END -->
 
 ## Stats
