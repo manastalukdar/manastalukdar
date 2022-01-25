@@ -21,11 +21,11 @@ I am a senior software engineering manager currently leading an org of multiple 
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Distributed Computing Conversation with Robert Nishihara from Anyscale](https://manastalukdar.github.io/blog/2022/01/24/distributed-computing-conversation-robert-nishihara-anyscale/)
 - [Feature Store 101 by Jordan Volz](https://manastalukdar.github.io/blog/2022/01/22/feature-store-101-jordan-volz/)
 - [Spark, Ray and Enterprise Open Source discussion with Ion Stoica](https://manastalukdar.github.io/blog/2022/01/21/spark-ray-enterprise-open-source-ion-stoica/)
 - [Feature Store talk by Jim Dowling at PyData Meetup](https://manastalukdar.github.io/blog/2022/01/21/the-feature-store-jim-dowling-pydata-talk/)
 - [Uber Engineering on Capacity Recommendation Engine and Predictive Scaling](https://manastalukdar.github.io/blog/2022/01/21/capacity-recommendation-engine-predictive-scaling-uber/)
-- [Auto-Diagnosis and Remediation in Netflix Data Platform](https://manastalukdar.github.io/blog/2022/01/14/auto-diagnosis-remediation-netflix-data-platform/)
 <!-- BLOG:END -->
 
 ## Stats
