@@ -53,7 +53,7 @@ I am a senior software engineering manager currently leading an org of multiple 
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C903%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C905%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Thousand%20lines%20of%20code-blue)
 
@@ -84,19 +84,19 @@ Sunday       178 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 10 mins      █████████████████████████   100.0%
+Markdown                 14 hrs 20 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  16 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 20 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    12 hrs 34 mins      ███████████████████░░░░░░   77.7% 
-Windows                  3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   22.3%
+Linux                    10 hrs 11 mins      █████████████████░░░░░░░░   71.04% 
+Windows                  4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.96%
 
 ```
 
 
- Last Updated on 19/10/2022 01:09:34 UTC
+ Last Updated on 20/10/2022 01:05:52 UTC
 <!--END_SECTION:waka-->
 
 ---
