@@ -21,11 +21,11 @@ I am a senior software engineering manager currently leading an org of multiple 
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Software Engineering Design Documents](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-design documents/)
+- [Software Engineering Architecture Decision Records &lpar;ADR&rpar;](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-architecture-decision-records/)
 - [Building ML Pipelines and What is DAG by John Aven](https://manastalukdar.github.io/blog/2022/03/21/building-ml-pipelines-dag/)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://manastalukdar.github.io/blog/2022/03/21/deepeta-uber-predicts-arrival-times-deep-learning/)
 - [What&#39;s in a Good Error Message? by Gunnar Morling](https://manastalukdar.github.io/blog/2022/02/11/good-error-message-gunnar-morling/)
-- [Distributed Computing Conversation with Robert Nishihara from Anyscale](https://manastalukdar.github.io/blog/2022/01/24/distributed-computing-conversation-robert-nishihara-anyscale/)
-- [Feature Store 101 by Jordan Volz](https://manastalukdar.github.io/blog/2022/01/22/feature-store-101-jordan-volz/)
 <!-- BLOG:END -->
 
 ## Stats
