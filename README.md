@@ -53,7 +53,7 @@ I am currently supporting an org of multiple teams working on large-scale distrb
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C599%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C600%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.3%20million%20lines%20of%20code-blue)
 
@@ -82,18 +82,18 @@ Sunday                   8409 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 30 mins       █████████████████████████   100.00 % 
+Markdown                 7 hrs 9 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 13 mins       █████████████████████░░░░   82.83 % 
-Windows                  1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Linux                    6 hrs 32 mins       ███████████████████████░░   91.45 % 
+Windows                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 ```
 
 
- Last Updated on 23/05/2023 01:07:53 UTC
+ Last Updated on 24/05/2023 01:06:28 UTC
 <!--END_SECTION:waka-->
 
 ---
