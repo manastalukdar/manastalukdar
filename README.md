@@ -21,7 +21,7 @@ I am currently supporting an org of multiple teams working on large-scale distrb
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
-- [Software Engineering Design Documents](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-design documents/)
+- [Software Engineering Design Documents](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-design-documents/)
 - [Software Engineering Architecture Decision Records &lpar;ADR&rpar;](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-architecture-decision-records/)
 - [Building ML Pipelines and What is DAG by John Aven](https://manastalukdar.github.io/blog/2022/03/21/building-ml-pipelines-dag/)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://manastalukdar.github.io/blog/2022/03/21/deepeta-uber-predicts-arrival-times-deep-learning/)
