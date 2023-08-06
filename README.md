@@ -23,9 +23,9 @@ I am currently supporting an org of multiple teams working on large-scale distrb
 <!-- BLOG:START -->
 - [Software Engineering Design Documents](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-design-documents/)
 - [Software Engineering Architecture Decision Records &lpar;ADR&rpar;](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-architecture-decision-records/)
+- [Adapted Scrum Process for Engineering Teams](https://manastalukdar.github.io/blog/2022/08/18/adapted-scrum-process-engineering-teams/)
 - [Building ML Pipelines and What is DAG by John Aven](https://manastalukdar.github.io/blog/2022/03/21/building-ml-pipelines-dag/)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://manastalukdar.github.io/blog/2022/03/21/deepeta-uber-predicts-arrival-times-deep-learning/)
-- [What&#39;s in a Good Error Message? by Gunnar Morling](https://manastalukdar.github.io/blog/2022/02/11/good-error-message-gunnar-morling/)
 <!-- BLOG:END -->
 
 ## Stats
