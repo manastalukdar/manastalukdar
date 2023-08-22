@@ -1,6 +1,6 @@
 ## About
 
-Software engineering leader with significant experience in large-scale distributed systems, data infrastructure and machine learning. This includes building, growing and managing teams in these areas and taking projects from ideation to prototype to product. Currently heading an organization of Data + AI engineers across multiple teams, building innovate products for Enterprise AI.
+Software engineering leader and senior member of IEEE, with significant experience in large-scale distributed systems, data infrastructure and machine learning. This includes building, growing and managing teams in these areas and taking projects from ideation to prototype to product. Currently heading an organization of Data + AI engineers across multiple teams, building innovate products for Enterprise AI.
 
 My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
