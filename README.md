@@ -1,6 +1,6 @@
 ## About
 
-I am currently supporting an org of multiple teams working on large-scale distrbuted systems, data infrastructure and AI/ML platforms. I have significant experience in distributed computing, data infrastructure and public cloud platforms. This includes building, growing and managing teams in these areas and taking projects from ideation to prototype to product. My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
+I am currently heading an organization of multiple teams working on large-scale distrbuted systems, data infrastructure and AI/ML platforms. I have significant experience in distributed computing, data infrastructure and public cloud platforms. This includes building, growing and managing teams in these areas and taking projects from ideation to prototype to product. My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
 ## Elsewhere
 
