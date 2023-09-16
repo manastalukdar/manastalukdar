@@ -23,11 +23,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Scrum Master Responsibilities](https://manastalukdar.github.io/blog/2023/09/15/scrum-master-responsibilities/)
 - [Engineering Support Duty Rotation](https://manastalukdar.github.io/blog/2023/08/29/engineering-support-duty-rotation/)
 - [Vector Database Reading and Research Material](https://manastalukdar.github.io/blog/2023/08/24/vector-database-reading-material/)
 - [Software Engineering Design Documents](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-design-documents/)
 - [Software Engineering Architecture Decision Records &lpar;ADR&rpar;](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-architecture-decision-records/)
-- [Adapted Scrum Process for Engineering Teams](https://manastalukdar.github.io/blog/2022/08/18/adapted-scrum-process-engineering-teams/)
 <!-- BLOG:END -->
 
 ## Stats
