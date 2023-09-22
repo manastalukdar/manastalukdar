@@ -36,7 +36,9 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 
 ### GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b&include_all_commits=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manastalukdar&theme=dark)](https://git.io/streak-stats)
 
 ### Most Used Languages
 
@@ -47,6 +49,8 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 - Vue
 - TypeScript
 - Go
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manastalukdar&layout=compact&hide_border=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manastalukdar&layout=compact&hide_border=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b)
