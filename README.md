@@ -38,7 +38,7 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manastalukdar&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&icon_color=79ff97&text_color=cecac3&bg_color=4d4b4b)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manastalukdar&hide_border=true&border_radius=0&background=4D4B4B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manastalukdar&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=4D4B4B)](https://git.io/streak-stats)
 
 ### Most Used Languages
 
