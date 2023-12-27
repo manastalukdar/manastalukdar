@@ -23,11 +23,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Measuring Productivity and Performance of Software Engineering Teams - Part 2](https://manastalukdar.github.io/blog/2023/12/26/productivity-performance-software-engineering-teams-part-2/)
 - [Leadership, Loyalty and OpenAI Employee Revolt after Sam Altman Ouster](https://manastalukdar.github.io/blog/2023/11/23/leadership-loyalty-openai-employee-revolt-sam-altman-ouster/)
 - [Scrum Master Responsibilities](https://manastalukdar.github.io/blog/2023/09/15/scrum-master-responsibilities/)
 - [Engineering Support Duty Rotation](https://manastalukdar.github.io/blog/2023/08/29/engineering-support-duty-rotation/)
 - [Vector Database Reading and Research Material](https://manastalukdar.github.io/blog/2023/08/24/vector-database-reading-material/)
-- [Software Engineering Design Documents](https://manastalukdar.github.io/blog/2023/03/18/software-engineering-design-documents/)
 <!-- BLOG:END -->
 
 ## Stats
