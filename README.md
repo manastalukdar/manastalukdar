@@ -1,6 +1,6 @@
 ## About
 
-Software engineering leader, IEEE senior member, AI 2030 Senior Fellow and Advisory Board member, with significant experience in artificial intelligence and large-scale systems. This includes building, growing and managing teams in these areas and taking projects from ideation to prototype to product. Currently heading an organization of Data + AI engineers across multiple teams, building innovate products for Enterprise AI.
+Software engineering leader with significant experience in artificial intelligence and large-scale systems. IEEE senior member, AI 2030 Senior Fellow and Advisory Board member. Track record of building, growing and managing organizations and taking projects from ideation to prototype to product. Currently heading an organization of Data + AI engineers across multiple teams, building innovate products for Enterprise AI.
 
 My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
