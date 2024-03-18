@@ -23,11 +23,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [The Shift from Models to Compound AI Systems - Berkeley AI Research Lab](https://manastalukdar.github.io/blog/2024/03/17/shift-models-compound-ai-systems-bair-lab/)
 - [Understanding Deep Learning Book by Simon Prince](https://manastalukdar.github.io/blog/2024/02/03/understanding-deep-learning-book-simon-prince/)
 - [The Definitive Guide on Feature Store from Hopsworks](https://manastalukdar.github.io/blog/2024/02/02/feature-store-definitive-guide-hopsworks/)
 - [On Layoffs](https://manastalukdar.github.io/blog/2024/02/02/on-layoffs/)
 - [Measuring Productivity and Performance of Software Engineering Teams - Part 2](https://manastalukdar.github.io/blog/2023/12/26/productivity-performance-software-engineering-teams-part-2/)
-- [Leadership, Loyalty and OpenAI Employee Revolt after Sam Altman Ouster](https://manastalukdar.github.io/blog/2023/11/23/leadership-loyalty-openai-employee-revolt-sam-altman-ouster/)
 <!-- BLOG:END -->
 
 ## Stats
