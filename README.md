@@ -23,11 +23,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [AI and General Technical Newsletters](https://manastalukdar.github.io/blog/2024/04/18/ai-and-general-technical-newsletters/)
 - [Breaking into AI/ML](https://manastalukdar.github.io/blog/2024/04/13/breaking-into-ai-ml/)
 - [Andreessen Horowitz on Enterprise Generative AI in 2024](https://manastalukdar.github.io/blog/2024/03/30/generative-ai-enterprise-2024-a16z/)
 - [Evolutionary Model Merge - Sakana AI](https://manastalukdar.github.io/blog/2024/03/30/evolutionary-model-merge-sakana-ai/)
 - [The Shift from Models to Compound AI Systems - Berkeley AI Research Lab](https://manastalukdar.github.io/blog/2024/03/17/shift-models-compound-ai-systems-bair-lab/)
-- [Understanding Deep Learning Book by Simon Prince](https://manastalukdar.github.io/blog/2024/02/03/understanding-deep-learning-book-simon-prince/)
 <!-- BLOG:END -->
 
 ## Stats
