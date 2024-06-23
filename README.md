@@ -23,11 +23,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Graduation Speech on AI at 2024 Commencement Ceremony of the American National University and University of Fairfax](https://manastalukdar.github.io/blog/2024/06/22/graduation-speech-ai-2024-commencement-anu-uf/)
 - [Some Reading Material on Retrieval-Augmented Generation](https://manastalukdar.github.io/blog/2024/06/02/reading-material-retrieval-augmented-generation/)
 - [Some AI Papers I Read Recently](https://manastalukdar.github.io/blog/2024/05/27/some-ai-papers-I read-recently/)
 - [Panel Discussion at CTO CON 2024](https://manastalukdar.github.io/blog/2024/05/27/panel-discussion-cto-con-2024/)
 - [Breaking into Data Engineering](https://manastalukdar.github.io/blog/2024/05/12/breaking-into-data-engineering/)
-- [A Framework for Promotion to Staff or Lead Engineer](https://manastalukdar.github.io/blog/2024/04/30/framework-promotion-to-staff-lead-engineer/)
 <!-- BLOG:END -->
 
 ## Stats
