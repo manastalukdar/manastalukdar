@@ -23,11 +23,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Recent AI Reading [11 August 2024]](https://manastalukdar.github.io/blog/2024/08/11/recent-ai-reading-11-august-2024/)
+- [Conversation on Artificial intelligence on the Daniel Stih podcast](https://manastalukdar.github.io/blog/2024/08/10/conversation-artificial-intelligence-daniel-stih-podcast/)
 - [Recent AI Reading [20 July 2024]](https://manastalukdar.github.io/blog/2024/07/20/recent-ai-reading-20-july-2024/)
 - [Graduation Speech on AI at 2024 Commencement Ceremony of the American National University and University of Fairfax](https://manastalukdar.github.io/blog/2024/06/22/graduation-speech-ai-2024-commencement-anu-uf/)
 - [Some Reading Material on Retrieval-Augmented Generation](https://manastalukdar.github.io/blog/2024/06/02/reading-material-retrieval-augmented-generation/)
-- [Some AI Papers I Read Recently [27 May 2024]](https://manastalukdar.github.io/blog/2024/05/27/some-ai-papers-I read-recently-27-may-2024/)
-- [Panel Discussion at CTO CON 2024](https://manastalukdar.github.io/blog/2024/05/27/panel-discussion-cto-con-2024/)
 <!-- BLOG:END -->
 
 ## Stats
