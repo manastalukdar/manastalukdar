@@ -4,6 +4,8 @@ Manas Talukdar is a senior industry leader in (enterprise) artificial intelligen
 
 Manas is a senior member of IEEE and an AI senior fellow. He mentors startups and industry professionals in the AI and Data space, and is an advisory board/council member. He has filed multiple patents in data processing and machine learning for AI. He reviews technical publications in AI and Data, and frequently speaks at technical and leadership conferences. Manas has been invited to deliver graduation speech on AI at university commencement ceremonies. He has also been appointed as a judge for prestigious national and international awards. His contributions have earned him recognition through numerous honors and awards, and invitations to join prestigious AI organizations.
 
+---
+
 My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
 ## Elsewhere
