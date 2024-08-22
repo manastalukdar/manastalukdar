@@ -1,6 +1,8 @@
 ## About
 
-Software engineering leader with significant experience in artificial intelligence and large-scale systems. IEEE senior member, AI 2030 Senior Fellow and Advisory Board member. Track record of building, growing and managing organizations and taking projects from ideation to prototype to product. Currently heading platform, product and machine learning engineering organizations of Data and AI engineers across multiple teams, building innovate products for Enterprise AI.
+Manas Talukdar is a senior industry leader in (enterprise) artificial intelligence and data infrastructure. He has leadership experience at startups as well as larger (public) companies, building and leading organizations. He has made key contributions to the leading process data historian in the world. The cutting-edge AI and Data products developed under his leadership are used globally.
+
+Manas is a senior member of IEEE and an AI senior fellow. He mentors startups and industry professionals in the AI and Data space, and is an advisory board/council member. He has filed multiple patents in data processing and machine learning for AI. Manas frequently speaks at technical and leadership conferences. He has been invited to deliver graduation speech on AI at university commencement ceremonies, and his insights are highly valued within the industry, leading to his appointment as a judge for prestigious national and international awards. Manas also reviews technical publications in AI and Data. His contributions have earned him recognition through numerous honors and awards, and invitations to join prestigious AI organizations.
 
 My [personal website](https://manastalukdar.github.io/) has more details on my professional experiences and interests, along with a blog containing articles, links, etc. related to software engineering and other topics of interest.
 
