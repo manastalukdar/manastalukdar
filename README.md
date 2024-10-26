@@ -27,11 +27,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Discussion on AI and Data Infrastructure with Mehmet Gonullu on The CTO Show Podcast](https://manastalukdar.github.io/blog/2024/10/25/ai-data-infrastructure-mehmet-gonullo-the-cto-show-podcast/)
 - [Recent AI Reading [15 October 2024]](https://manastalukdar.github.io/blog/2024/10/15/recent-ai-reading-15-october-2024/)
 - [Conversation on Data Quality in AI on the CARE to Lead® Podcast with Cynthia Corsetti](https://manastalukdar.github.io/blog/2024/09/26/data-quality-in-ai-care-to-lead-podcast-cynthia-corsetti/)
 - [Recent AI Reading [07 September 2024]](https://manastalukdar.github.io/blog/2024/09/07/recent-ai-reading-07-september-2024/)
 - [Recent AI Reading [11 August 2024]](https://manastalukdar.github.io/blog/2024/08/11/recent-ai-reading-11-august-2024/)
-- [Conversation on Artificial intelligence on the Daniel Stih podcast](https://manastalukdar.github.io/blog/2024/08/10/conversation-artificial-intelligence-daniel-stih-podcast/)
 <!-- BLOG:END -->
 
 ## Stats
