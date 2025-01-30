@@ -27,11 +27,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Recent AI Reading [29 January 2025]](https://manastalukdar.github.io/blog/2025/01/29/recent-ai-reading-29-january-2025/)
 - [Recent AI Reading [18 January 2025]](https://manastalukdar.github.io/blog/2025/01/18/recent-ai-reading-18-january-2025/)
 - [Recent AI Reading [10 November 2024]](https://manastalukdar.github.io/blog/2024/11/10/recent-ai-reading-10-november-2024/)
 - [New Research on Anxiety, Pollution, and Learning - Neuroscience News](https://manastalukdar.github.io/blog/2024/11/02/neuroscience-news-research-anxiety-pollution-learning/)
 - [Recent AI Reading [26 October 2024]](https://manastalukdar.github.io/blog/2024/10/26/recent-ai-reading-26-october-2024/)
-- [Discussion on AI and Data Infrastructure with Mehmet Gonullu on The CTO Show Podcast](https://manastalukdar.github.io/blog/2024/10/25/ai-data-infrastructure-mehmet-gonullo-the-cto-show-podcast/)
 <!-- BLOG:END -->
 
 ## Stats
