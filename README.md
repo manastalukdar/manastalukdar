@@ -61,7 +61,7 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C321%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C323%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.3%20million%20lines%20of%20code-blue)
 
@@ -90,19 +90,19 @@ Sunday                   12062 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 26 mins      █████████████████████████   99.89 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 14 hrs 28 mins      █████████████████████████   99.87 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 54 mins       █████████████░░░░░░░░░░░░   51.00 % 
-Mac                      8 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.00 % 
+Mac                      8 hrs 33 mins       ███████████████░░░░░░░░░░   59.02 % 
+Windows                  5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
 ```
 
 
- Last Updated on 17/02/2025 01:39:23 UTC
+ Last Updated on 18/02/2025 01:36:16 UTC
 <!--END_SECTION:waka-->
 
 ---
