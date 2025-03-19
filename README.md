@@ -27,11 +27,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Discussion on How Data and Cloud-Native Strategies are Redefining Enterprise AI on the Alchemist Accelerator Innovator Inside Podcast](https://manastalukdar.github.io/blog/2025/03/18/discussion-data-enterprise-ai-alchemist-accelerator-innovators-inside-podcast/)
 - [Discussion on Navigating the AI Revolution with Dr. John Dentico on the Throttle Up Leadership Podcast](https://manastalukdar.github.io/blog/2025/03/07/discussion-ai-dr-john-dentico-throttle-up-leadership-podcast/)
 - [Recent AI Reading [29 January 2025]](https://manastalukdar.github.io/blog/2025/01/29/recent-ai-reading-29-january-2025/)
 - [Recent AI Reading [18 January 2025]](https://manastalukdar.github.io/blog/2025/01/18/recent-ai-reading-18-january-2025/)
 - [Recent AI Reading [10 November 2024]](https://manastalukdar.github.io/blog/2024/11/10/recent-ai-reading-10-november-2024/)
-- [New Research on Anxiety, Pollution, and Learning - Neuroscience News](https://manastalukdar.github.io/blog/2024/11/02/neuroscience-news-research-anxiety-pollution-learning/)
 <!-- BLOG:END -->
 
 ## Stats
