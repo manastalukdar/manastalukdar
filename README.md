@@ -2,7 +2,7 @@
 
 Manas Talukdar is a senior industry leader in Enterprise Artificial Intelligence and Data Infrastructure. He has leadership experience at startups as well as larger public companies, building and leading organizations. He has made key contributions to the preeminent process data historian in the world. The large-scale AI and Data products developed under his leadership are used globally.
 
-Manas is a Senior Member of IEEE, Fellow of the British Compute Society (BCS), AI Senior Fellow. He mentors startups and industry professionals in the AI and Data space. He has filed multiple patents in data processing and machine learning for AI. He reviews technical publications in AI and Data, and frequently speaks at technical and leadership conferences. Manas has been invited to deliver graduation speech on AI at university commencement ceremonies. He has also been invited to judge prestigious national and international industry awards. His contributions have been recognized through numerous honors and awards, and invitations to join prestigious AI organizations.
+Manas is a Senior Member of IEEE, Fellow of the British Computer Society (BCS), AI Senior Fellow. He mentors startups and industry professionals in the AI and Data space. He has filed multiple patents in data processing and machine learning for AI. He reviews technical publications in AI and Data, and frequently speaks at technical and leadership conferences. Manas has been invited to deliver graduation speech on AI at university commencement ceremonies. He has also been invited to judge prestigious national and international industry awards. His contributions have been recognized through numerous honors and awards, and invitations to join prestigious AI organizations.
 
 ---
 
