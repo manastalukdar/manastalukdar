@@ -61,7 +61,7 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C738%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C739%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.7%20million%20lines%20of%20code-blue)
 
@@ -105,7 +105,7 @@ Windows                  4 hrs 12 mins       ██████████░�
 ```
 
 
- Last Updated on 05/07/2025 01:56:17 UTC
+ Last Updated on 06/07/2025 02:07:08 UTC
 <!--END_SECTION:waka-->
 
 ---
