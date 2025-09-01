@@ -27,11 +27,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Recent AI Reading [31 August 2025]](https://manastalukdar.github.io/blog/2025/08/31/recent-ai-reading-31-august-2025/)
 - [Things to be Aware of While Using AI Coding Agents](https://manastalukdar.github.io/blog/2025/08/27/things-to-be-aware-of-ai-coding-agents/)
 - [Recent AI Reading [11 August 2025]](https://manastalukdar.github.io/blog/2025/08/11/recent-ai-reading-11-august-2025/)
 - [Large Language Models - A Simple Explainer](https://manastalukdar.github.io/blog/2025/08/08/large-language-models-simple-explainer/)
 - [Recent AI Reading [26 July 2025]](https://manastalukdar.github.io/blog/2025/07/26/recent-ai-reading-26-july-2025/)
-- [Conversation on the Future of AI on the Revenue Focused Marketer Podcast](https://manastalukdar.github.io/blog/2025/07/22/conversation-future-of-ai-revenue-focused-marketer-podcast/)
 <!-- BLOG:END -->
 
 ## Stats
