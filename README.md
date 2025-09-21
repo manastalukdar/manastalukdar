@@ -61,10 +61,12 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C005%20hrs%2016%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.9%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 20/09/2025 02:19:52 UTC
+ Last Updated on 21/09/2025 02:16:43 UTC
 <!--END_SECTION:waka-->
 
 ---
