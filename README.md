@@ -59,22 +59,22 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C292%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C293%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.04%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.05%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                9801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-🌆 Daytime                31595 commits       █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌃 Evening                35217 commits       ██████████░░░░░░░░░░░░░░░   39.67 % 
-🌙 Night                  12167 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+🌆 Daytime                31596 commits       █████████░░░░░░░░░░░░░░░░   35.58 % 
+🌃 Evening                35217 commits       ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌙 Night                  12178 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   15196 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Monday                   15208 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 Tuesday                  10158 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 Wednesday                11332 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 Thursday                 11170 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
@@ -103,7 +103,7 @@ Mac                      2 hrs 18 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 05/01/2026 02:49:28 UTC
+ Last Updated on 06/01/2026 02:44:37 UTC
 <!--END_SECTION:waka-->
 
 ---
