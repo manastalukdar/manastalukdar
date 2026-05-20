@@ -59,51 +59,12 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C727%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C729%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.37%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                10947 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                34703 commits       █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌃 Evening                38882 commits       ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌙 Night                  13359 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   16485 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Tuesday                  11159 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Wednesday                12709 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Thursday                 12505 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Friday                   12804 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 16526 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   15703 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.51%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 14 hrs 22 mins      ████████████████░░░░░░░░░   62.83 % 
-Other                    5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 59 mins      ████████████████████████░   96.08 % 
-Unknown Editor           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-
-💻 Operating System: 
-Linux                    22 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 19/05/2026 02:44:13 UTC
+ Last Updated on 20/05/2026 02:45:06 UTC
 <!--END_SECTION:waka-->
 
 ---
