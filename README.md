@@ -59,12 +59,51 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C729%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C731%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.51%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 20/05/2026 02:45:06 UTC
+```text
+🌞 Morning                11575 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌆 Daytime                36549 commits       █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌃 Evening                41022 commits       ██████████░░░░░░░░░░░░░░░   39.79 % 
+🌙 Night                  13953 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   17359 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  11743 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Wednesday                13407 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 13203 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Friday                   13496 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 17354 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Sunday                   16537 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 12 hrs 42 mins      ██████████████████░░░░░░░   72.36 % 
+Python                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Makefile                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 16 mins      █████████████████████████   98.28 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+
+💻 Operating System: 
+Linux                    17 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/05/2026 02:44:59 UTC
 <!--END_SECTION:waka-->
 
 ---
