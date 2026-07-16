@@ -25,11 +25,11 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ## Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Recent AI Reading [15 July 2026]](https://manastalukdar.github.io/blog/2026/07/15/recent-ai-reading-15-july-2026/)
 - [Conversation with Jeff Pedowitz about Models, AI, and Data on the Unscripted Podcast](https://manastalukdar.github.io/blog/2026/07/13/conversation-jeff-pedowitz-models-ai-data-unscripted-podcast/)
 - [Recent AI Reading [22 March 2026]](https://manastalukdar.github.io/blog/2026/03/22/recent-ai-reading-22-march-2026/)
 - [Recent AI Reading [25 January 2026]](https://manastalukdar.github.io/blog/2026/01/25/recent-ai-reading-25-january-2026/)
 - [Recent AI Reading [25 October 2025]](https://manastalukdar.github.io/blog/2025/10/25/recent-ai-reading-25-october-2025/)
-- [Kyle Corbett from OpenPipe on Building Better AI Agents with RL &amp; Fine-Tuning](https://manastalukdar.github.io/blog/2025/09/09/kyle-corbett-openpipe-ai-agents-rl-fine-tuning/)
 <!-- BLOG:END -->
 
 ## Stats
