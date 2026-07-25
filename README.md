@@ -59,26 +59,26 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.75%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12958 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                40057 commits       █████████░░░░░░░░░░░░░░░░   35.52 % 
-🌃 Evening                44760 commits       ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌙 Night                  15006 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+🌞 Morning                12982 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+🌆 Daytime                40101 commits       █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌃 Evening                44765 commits       ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌙 Night                  15010 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   18930 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Tuesday                  13049 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Wednesday                14910 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Thursday                 14354 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Friday                   14662 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Saturday                 18898 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Sunday                   17978 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Monday                   18930 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Tuesday                  13089 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Wednesday                14946 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Thursday                 14355 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   14662 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Saturday                 18898 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Sunday                   17978 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 ```
 
 
@@ -86,22 +86,22 @@ Sunday                   17978 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 hrs 4 mins       █████████████████████░░░░   84.12 % 
-YAML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Markdown                 21 hrs 49 mins      ██████████████████████░░░   86.45 % 
+YAML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 31 mins      ██████████████░░░░░░░░░░░   56.70 % 
-Claude Code              10 hrs 19 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
+VS Code                  14 hrs 56 mins      ███████████████░░░░░░░░░░   59.20 % 
+Claude Code              10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   40.80 % 
 
 💻 Operating System: 
-Linux                    23 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 02:08:11 UTC
+ Last Updated on 25/07/2026 02:08:20 UTC
 <!--END_SECTION:waka-->
 
 ---
