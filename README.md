@@ -1,6 +1,6 @@
 ## About
 
-Manas Talukdar is a senior industry leader in Enterprise Artificial Intelligence and Data Infrastructure, with leadership experience at both startups and larger public companies. He has made key contributions to the world's preeminent industrial data historian. The enterprise products he has developed are used globally across enterprises, the public sector, and critical industrial infrastructure. A recognized thought leader with multiple patents, he actively contributes to the industry as a mentor, a Fellow at prestigious professional organizations, a speaker, and an invited reviewer of technical literature.
+Manas Talukdar is a builder, founder, and investor in AI, Agents, and Data, with a two-decade-long career in startups in the SF Bay Area. His contributions include significant work on the world's preeminent industrial data historian, and the development of globally adopted AI and Data products across enterprises, the public sector, and critical industrial infrastructure. He holds multiple patents and actively contributes to the industry as a mentor, a member of prestigious professional organizations, a speaker, and an invited reviewer of technical literature.
 
 ---
 
