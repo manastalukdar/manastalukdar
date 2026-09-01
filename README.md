@@ -59,9 +59,9 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C047%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C054%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,7 +70,7 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ```text
 🌞 Morning                11799 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 🌆 Daytime                36922 commits       █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌃 Evening                41567 commits       ██████████░░░░░░░░░░░░░░░   39.83 % 
+🌃 Evening                41569 commits       ██████████░░░░░░░░░░░░░░░   39.83 % 
 🌙 Night                  14071 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -82,7 +82,7 @@ Wednesday                13559 commits       ███░░░░░░░░�
 Thursday                 13322 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Friday                   13615 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 Saturday                 17674 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Sunday                   16758 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   16760 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 
 
@@ -90,49 +90,49 @@ Sunday                   16758 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 35 hrs 42 mins      ███████████████████░░░░░░   76.27 % 
-Bash                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Other                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-TeX                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Markdown                 36 hrs              ███████████████████░░░░░░   75.56 % 
+Other                    2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+TeX                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Bash                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 50 mins      ████████████████░░░░░░░░░   63.73 % 
-VS Code                  16 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   36.22 % 
+Claude Code              30 hrs 29 mins      ████████████████░░░░░░░░░   63.98 % 
+VS Code                  17 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
 Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    46 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    47 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 46 mins (82.81%)
+⏱ AI Coding Time: 38 hrs 46 mins (81.36%)
 
-✍️ 9,175 lines written by AI, 1,004 lines written by hand (90.14% AI-written)
+✍️ 8,567 lines written by AI, 499 lines written by hand (94.5% AI-written)
 
-🔤 9,216,628 Input Tokens, 1,387,266 Output Tokens
+🔤 8,706,970 Input Tokens, 1,377,305 Output Tokens
 
-💵 $319.60 Estimated AI Cost This Week
+💵 $307.27 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 684 AI Prompts
+🧠 67 AI Sessions, 653 AI Prompts
 
-Opus                     11,517 lines        █████████████████████████   98.02 % 
-Sonnet                   233 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Opus                     10,979 lines        ████████████████████████░   97.92 % 
+Sonnet                   233 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.14% of written lines came from AI
-📄 Detailed Prompter — average 957 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 12.61% of changed lines were hand-edited
+🤖 AI-Driven — 94.5% of written lines came from AI
+📄 Detailed Prompter — average 1,002 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 8.37% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 02:45:35 UTC
+ Last Updated on 01/09/2026 02:58:49 UTC
 <!--END_SECTION:waka-->
 
 ---
