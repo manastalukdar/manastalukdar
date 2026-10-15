@@ -59,9 +59,9 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C184%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C191%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-553%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-562%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,46 +90,46 @@ Sunday                   19381 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 24 hrs 13 mins      ███████████████░░░░░░░░░░   60.71 % 
-Other                    6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Python                   5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-HTML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Text                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Markdown                 24 hrs 21 mins      █████████████░░░░░░░░░░░░   53.11 % 
+Python                   11 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Other                    6 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+HTML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Text                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 34 mins      ████████████████████░░░░░   79.12 % 
-VS Code                  8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Claude Code              37 hrs 37 mins      █████████████████████░░░░   82.04 % 
+VS Code                  8 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
 
 💻 Operating System: 
-Linux                    39 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 27 mins (83.84%)
+⏱ AI Coding Time: 39 hrs 46 mins (86.71%)
 
-✍️ 16,431 lines written by AI, 680 lines written by hand (96.03% AI-written)
+✍️ 18,821 lines written by AI, 783 lines written by hand (96.01% AI-written)
 
-🔤 21,498,082 Input Tokens, 3,160,370 Output Tokens
+🔤 24,681,041 Input Tokens, 4,006,554 Output Tokens
 
-💵 $555.33 Estimated AI Cost This Week
+💵 $547.85 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 515 AI Prompts
+🧠 73 AI Sessions, 638 AI Prompts
 
-Opus                     16,260 lines        ████████████████████████░   97.28 % 
-Sonnet                   454 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Opus                     18,639 lines        ████████████████████████░   97.62 % 
+Sonnet                   454 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.03% of written lines came from AI
-📚 Verbose Prompter — average 1,771 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.33% of changed lines were hand-edited
+🤖 AI-Driven — 96.01% of written lines came from AI
+📚 Verbose Prompter — average 1,846 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 5.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 03:08:48 UTC
+ Last Updated on 15/10/2026 02:47:12 UTC
 <!--END_SECTION:waka-->
 
 ---
