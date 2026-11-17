@@ -59,26 +59,30 @@ My [personal website](https://manastalukdar.github.io/) has more details on my p
 ### WakaTime
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.36%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C411%20hrs%202%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-797%20hrs%203%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.46%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13604 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                42022 commits       █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌃 Evening                47432 commits       ██████████░░░░░░░░░░░░░░░   39.95 % 
-🌙 Night                  15684 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌞 Morning                13663 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                42096 commits       █████████░░░░░░░░░░░░░░░░   35.38 % 
+🌃 Evening                47526 commits       ██████████░░░░░░░░░░░░░░░   39.94 % 
+🌙 Night                  15697 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   19951 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Tuesday                  13325 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Wednesday                15538 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 15204 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   15508 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 20084 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Sunday                   19132 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Monday                   19991 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  13325 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Wednesday                15581 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 15214 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Friday                   15539 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Saturday                 20123 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Sunday                   19209 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 ```
 
 
@@ -125,7 +129,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/11/2026 14:24:31 UTC
+ Last Updated on 17/11/2026 06:05:53 UTC
 <!--END_SECTION:waka-->
 
 ---
